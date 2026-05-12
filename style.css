@@ -10,3 +10,7 @@ button {
 body{
    background-color: pink;
 }
+button{
+    background-color: black;
+    color: white;
+}
